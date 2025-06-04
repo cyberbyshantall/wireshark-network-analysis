@@ -1,4 +1,3 @@
-# wireshark-network-analysis
 # Network Traffic Analysis with Wireshark
 
 ## Overview
