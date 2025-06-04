@@ -33,6 +33,3 @@ The `.pcapng` file was saved and uploaded for analysis. It contains both HTTP an
 - Capture malicious or suspicious traffic (via test labs)
 - Create custom Wireshark filters to identify threat indicators
 
----
-
-Feel free to fork or recreate this project to improve your own network analysis skills.
